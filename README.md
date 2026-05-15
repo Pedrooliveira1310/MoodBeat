@@ -259,6 +259,6 @@ Este projeto foi desenvolvido para fins acadêmicos.
 
 ---
 
-# 🌌 MoodBeat AI
+# 🌌 MoodBeat
 
 > “Sua emoção tem uma trilha sonora.” 🎵
