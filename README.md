@@ -61,7 +61,7 @@ Além das recomendações musicais, o sistema também oferece:
 * Recomendações rápidas
 * Visualização gráfica dos dados
 
-  ## 🎞️ Apresentação do Projeto
+## 🎞️ Apresentação do Projeto
 
 Acesse os slides oficiais do projeto MoodBeat AI no Canva:
 
